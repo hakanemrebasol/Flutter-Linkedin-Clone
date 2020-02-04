@@ -1,10 +1,9 @@
 # Flutter-Linkedin-Clone
-
-A new Flutter project.
+Linkedin profle page clone.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can find back-end here.(.Net Core)
 
 - [Back-End: You can find here](https://flutter.dev/docs/get-started/codelab)
 
