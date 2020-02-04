@@ -5,7 +5,7 @@ Linkedin profle page clone.
 
 You can find back-end here.(.Net Core)
 
-- [Back-End: You can find here](https://flutter.dev/docs/get-started/codelab)
+- [Back-End: You can find here](https://github.com/hakanemrebasol/NetCore-LinkedinClone-Back-End)
 
 ## Screenshots
 ![Login](https://i.ibb.co/gSVBs0g/Screenshot-20200204-165403.png)
