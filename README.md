@@ -8,7 +8,7 @@ You can find back-end here.(.Net Core)
 - [Back-End: You can find here](https://github.com/hakanemrebasol/NetCore-LinkedinClone-Back-End)
 
 ## Screenshots
-![Login](https://github.com/hakanemrebasol/Flutter-Linkedin-Clone/blob/master/login.png | width=48)
+<img src="https://github.com/hakanemrebasol/Flutter-Linkedin-Clone/blob/master/login.png" width="250">
 ![Profile Light](https://github.com/hakanemrebasol/Flutter-Linkedin-Clone/blob/master/profile.jpg)
 ![Profile Dark](https://github.com/hakanemrebasol/Flutter-Linkedin-Clone/blob/master/dark_mode.jpg)
 ![Edit Profile](https://github.com/hakanemrebasol/Flutter-Linkedin-Clone/blob/master/edit_profile.png)
